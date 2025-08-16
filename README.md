@@ -1,11 +1,13 @@
 **🌾 Crop Market**
 
 **📖 About the Project**
+
 Crop Market is a full-stack digital platform that connects farmers and buyers with transparent crop pricing, secure payments, and user-friendly dashboards.
 It ensures fair trade by providing farmers direct market access and buyers with real-time pricing, purchase tracking, and secure payment options.
 
 
 **🚀 Features**
+
 	•	👨‍🌾 Farmer Dashboard: Add crops, set prices, view sales history.
 	•	🛒 Buyer Dashboard: Browse crops, make secure purchases, track orders.
 	•	🏢 Admin Panel: Manage users, approve/reject crops, monitor transactions.
@@ -50,22 +52,26 @@ Crop-Market/
 **⚙️ Installation & Setup**
 
 **Backend Setup**
+
 cd backend
 # Configure MySQL in application.properties
 mvn clean install
 mvn spring-boot:run
 
 **Frontend Setup**
+
 cd frontend
 npm install
 npm start
 
 **Payment Setup**
+
 	•	Configure Razorpay API keys (for India)
 	•	Configure Stripe API keys (for International)
 
 
 **📊 Future Enhancements**
+
 	•	AI-based crop price predictions
 	•	Mobile App (React Native) for rural farmers
 	•	Blockchain integration for tamper-proof transactions
@@ -73,6 +79,7 @@ npm start
 
 
 **🤝 Contribution**
+
 We welcome contributions!
 	1.	Fork the repo
 	2.	Create a new branch (git checkout -b feature-name)
@@ -82,6 +89,7 @@ We welcome contributions!
 
 
 **👨‍💻 Author**
+
 Shoyab Ali
 🌐 GitHub - http://github.com/Sonuuu02  
 ✉️ shoyabkhan7509548835.gmail.com  
